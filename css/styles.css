@@ -434,4 +434,13 @@ button {
     align-items: center;
     text-align: center;
 }
-
+.image3 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.image3 > figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
